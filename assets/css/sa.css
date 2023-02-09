@@ -1,0 +1,75 @@
+.pl-3 {
+	padding-left: 1rem !important;
+}
+.mr-2 {
+	margin-right: 0.6rem !important;
+	margin-bottom: 0.6rem !important;
+}
+.ap {
+	background: #3e8e7e !important;
+	width: 3rem;
+}
+
+.c-ap {
+	width: 14rem;
+	border: 0.5px solid #e2e2e2;
+	border-radius: 4px;
+	color: #7b7b7b;
+	display: flex;
+	align-items: center;
+	transition: none !important;
+}
+
+.cap-list {
+	width: 16rem;
+	min-height: 4rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.list-ca {
+	color: #7b7b7b;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	transition: none !important;
+}
+
+.cap-list:hover {
+	background: #effaf8;
+	color: #696969;
+	align-items: center;
+	text-decoration: none;
+	transition: none !important;
+}
+
+.list-ca:hover {
+	min-height: 4rem;
+	color: #545353;
+	transition: none !important;
+}
+
+.c-ap:hover {
+	background: #ebfaf7;
+	border: none;
+	color: #696969;
+	transition: none !important;
+}
+
+.cap-title {
+	font-size: 11pt;
+}
+
+.cp {
+	min-width: 8rem !important;
+}
+
+/* style 30/12/21 */
+
+.gbr-temuan {
+	max-height: 200px !important;
+	max-width: 200px !important;
+	overflow-y: hidden !important;
+}

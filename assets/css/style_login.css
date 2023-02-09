@@ -1,0 +1,42 @@
+.text-white {
+	color: #fff;
+}
+.text-green {
+	color: #177746;
+}
+
+.text-orange {
+	color: #e26a2c;
+}
+
+.uk-container {
+	height: 90vh;
+	padding: 20px;
+}
+
+.form-login {
+	box-sizing: border-box;
+	border-radius: 3px;
+	background-color: rgb(255, 254, 254);
+	padding: 70px;
+}
+
+.ubl {
+	background-color: #177746;
+	color: rgb(255, 255, 255);
+	border-radius: 3px;
+}
+.ubl:hover {
+	background-color: #0b5c32;
+	color: rgba(255, 255, 255, 0.816);
+}
+
+.ubp {
+	background-color: rgb(170, 170, 170);
+	color: rgb(10, 10, 10);
+	border-radius: 3px;
+}
+
+input {
+	border-radius: 3px !important;
+}
